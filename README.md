@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @REBjr13
+- 👋 Hi, I’m Robert Bob-Manuel
 - 👀 I’m interested in mobile apps
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on ...
